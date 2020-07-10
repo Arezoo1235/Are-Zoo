@@ -2,7 +2,7 @@
 
 # xx16132031
 
-# [google] (http://google.com/)
+# [google](https://google.com/)
 
 วิชา | เกรด
 -------------- | --------------
