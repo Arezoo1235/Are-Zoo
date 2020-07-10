@@ -2,7 +2,7 @@
 
 # xx16132031
 
-# [google](https://github.com/Arezoo1235/Are-Zoo/)
+# [profile](https://github.com/Arezoo1235/Are-Zoo/)
 
 วิชา | เกรด
 -------------- | --------------
